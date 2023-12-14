@@ -3,7 +3,7 @@ title: "Do Crows Prefer the City Life or the Peaceful Countryside?"
 author: "Andrea Cruz Alegria"
 date: "(`r format(Sys.time(), '%d %B %Y')`)"
 output: 
-  md_document:
+  github_document:
     toc: true
 ---
 
